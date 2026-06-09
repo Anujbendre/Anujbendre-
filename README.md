@@ -111,11 +111,11 @@ My goal is to become a professional Cyber Security Engineer and contribute to bu
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: [](https://in.linkedin.com/in/anuj-bendre-ba91022b2)
 
-📧 Email: Your Email
+📧 Email: anujbendre2007@gmail.com
 
-🆔 ORCID: 0009-0008-8345-0313
+🆔 ORCID: 0009-0003-8345-0313
 
 ---
 
