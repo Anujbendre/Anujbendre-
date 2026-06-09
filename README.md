@@ -1,122 +1,153 @@
-<h1 align="center">Hi 👋, I'm Anuj Bendre</h1>
+<div align="center">
 
-<h3 align="center">🔐 Cybersecurity Enthusiast | Python Developer | Security Researcher</h3>
+# Hi 👋, I'm Anuj Bendre
+
+### 🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 🛡️ Security Researcher
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Security+Researcher;SOC+Analyst+Learner;AI-Powered+Security+Solutions" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🛡️ About Me
 
-I am a Computer Engineering student passionate about Cybersecurity, Threat Detection, Security Automation, and Artificial Intelligence.
+🎓 Computer Engineering Student
 
-Currently focusing on:
+🔐 Passionate about Cybersecurity, Threat Detection, Security Automation, and Ethical Hacking
 
-🔐 Cyber Security
+🐍 Python Developer focused on Security Tools and Automation
 
-🐍 Python Development
+🤖 Interested in Artificial Intelligence and Machine Learning for Cyber Defense
 
-🤖 AI-Powered Security Solutions
+🛡️ Learning SOC Operations, Threat Hunting, SIEM, and Incident Response
 
-🛡️ SOC Operations
+🚀 Building Real-World Cybersecurity and AI Projects
 
-📊 Security Monitoring
-
-🚀 Threat Detection & Incident Response
-
-My goal is to become a professional Cyber Security Engineer and contribute to building secure digital systems.
+🎯 Goal: Become a Cyber Security Engineer and Security Researcher
 
 ---
 
-## 🚀 Featured Security Projects
+## 🚀 Featured Projects
 
-### 🔐 AI Ransomware Detection System
-
+### 🔐 AI-Ransomware-Detection-System
 - Real-time file monitoring
 - Machine Learning-based ransomware detection
-- Security alert generation
-- Interactive dashboard
+- Automated threat alerts
+- Interactive security dashboard
 
-### 👤 Missing Person Tracker Using AI
+### 👤 Missing-Person-Tracker-Using-AI-and-Face-Recognition
+- AI-powered face recognition
+- Image processing and identification
+- Real-time matching system
+- Investigation support
 
-- Face Recognition
-- AI-based identification
-- Image processing
-- Security investigation support
+### 🚗 Parking IoT Management System
+- IoT device monitoring
+- Smart infrastructure management
+- Sensor-based automation
+- Secure data collection
 
-### 🚗 Smart Parking IoT Management System
-
-- IoT Device Monitoring
-- Data Collection
-- Smart Infrastructure Security
-
----
-
-## 🛠️ Security Skills
-
-### Cyber Security
-
-- SOC Operations
-- Threat Detection
-- Security Monitoring
-- Vulnerability Assessment
-- Incident Response
-- Security Automation
-
-### Programming
-
-- Python
-- Java
-- C++
-- SQL
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-
-### AI & Machine Learning
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- TensorFlow
+### 🗄️ Database Management System
+- Database operations
+- User authentication
+- Record management
+- SQL integration
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=Anujbendre&show_icons=true&theme=tokyonight)
+### 🔐 Cybersecurity
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anujbendre&theme=tokyonight)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbendre&layout=compact&theme=tokyonight)
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-## 🎯 Current Learning
+## 📊 GitHub Stats
+
+![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujbendre&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anujbendre&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbendre&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anujbendre&theme=tokyonight&row=1&column=6)
+
+---
+
+## 🎯 Currently Learning
 
 - Malware Analysis
-- SOC Analyst Skills
-- Digital Forensics
 - Threat Hunting
+- Digital Forensics
 - SIEM Tools
+- SOC Operations
 - Cloud Security
+- Security Automation
 - Ethical Hacking
+- Incident Response
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [](https://in.linkedin.com/in/anuj-bendre-ba91022b2)
+💼 LinkedIn  
+[https://linkedin.com/in/anuj-bendre-ba91022b2](https://linkedin.com/in/anuj-bendre-ba91022b2)
 
-📧 Email: anujbendre2007@gmail.com
+📧 Email  
+anujbendre2007@gmail.com
 
-🆔 ORCID: 0009-0003-8345-0313
+🆔 ORCID  
+https://orcid.org/0009-0003-8345-0313
+
+🐙 GitHub  
+https://github.com/Anujbendre
 
 ---
 
-⭐ "Securing Systems Through Code & Intelligence"
+## 💡 Fun Fact
+
+⚡ I enjoy building cybersecurity solutions that combine Artificial Intelligence, Automation, and Real-World Security Challenges.
+
+---
+
+<div align="center">
+
+### ⭐ Securing Systems Through Code, Intelligence, and Continuous Learning.
+
+</div>
