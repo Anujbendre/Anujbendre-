@@ -94,19 +94,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anujbendre&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anujbendre&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujbendre&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbendre&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujbendre&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Anujbendre&theme=tokyonight&row=1&column=6)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anujbendre&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
